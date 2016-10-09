@@ -33,3 +33,17 @@ Some fields are channel-specific such as:
 - ...
 
 After you submit the form, the information is pushed immediately to all channels.
+
+## Project Structure
+
+### Website
+ - single form for event creation, interacts with Firebase
+ - Polymer site, hosted on Firebase Hosting
+
+### Backend
+ - reacts to event creation and editation in Firebase and automates tasks via different plugins (one plugin, one file, one language = simplifies contributions)
+ - AppEngine
+
+### Browser Extension
+ - because Google Dev site `sucks`, we need the extension to create and edit events on the site
+ - Chrome Extension
