@@ -1,7 +1,7 @@
 # pain
 Platform. API. Infrastructure. Now!
 
-Create GDG event on one place and it will post information about it everywhere else.
+Create GDG event at one place and it will post information about it everywhere else.
 
 ## Functional specification
 It's a website with two parts:
