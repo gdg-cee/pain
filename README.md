@@ -27,7 +27,7 @@ Some fields are required for all channels such as:
 - Event end time
 - ...
 
-Some fields are channels specific such as:
+Some fields are channel-specific such as:
 - Facebook post image
 - Twitter short text
 - ...
